@@ -6,6 +6,15 @@
 
 A fully functional, custom operating system built from scratch with a beautiful fullscreen green interface and complete command-line shell.
 
+<img width="716" height="400" alt="home" src="https://github.com/user-attachments/assets/9e19a190-0c63-4286-b857-0b4286c056a5" />
+
+<img width="715" height="396" alt="help" src="https://github.com/user-attachments/assets/8085e9c0-60b9-4301-97b6-b00998378aa5" />
+
+<img width="717" height="393" alt="echo" src="https://github.com/user-attachments/assets/4a017e09-e42c-4d33-bdbd-e48397c667ce" />
+
+
+
+
 ## 🌟 Features
 
 ###  Working Features
